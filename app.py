@@ -6,9 +6,8 @@ from io import BytesIO
 
 # Dictionary of stock symbols
 STOCKS = {
-    "Alphabet (GOOGL)": "GOOGL",
-    "Nvidia (NVDA)": "NVDA",
-    "Microsoft (MSFT)": "MSFT"
+    "FirstRand (FSR.JO)": "FSR",
+    "Gold Fields (GFI.JO)": "GFI"
 }
 
 # Streamlit UI
