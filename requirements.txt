@@ -3,5 +3,6 @@ numpy
 streamlit
 yfinance
 plotly
-
+prophet==1.1.5
+pystan==2.19.1.1
 datetime
