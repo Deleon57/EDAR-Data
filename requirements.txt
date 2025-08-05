@@ -3,5 +3,5 @@ numpy
 streamlit
 yfinance
 plotly
-python -m pip install prophet
+
 datetime
