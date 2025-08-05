@@ -4,4 +4,5 @@ streamlit
 yfinance
 plotly
 fbprophet
+fbprophet.plot
 datetime
